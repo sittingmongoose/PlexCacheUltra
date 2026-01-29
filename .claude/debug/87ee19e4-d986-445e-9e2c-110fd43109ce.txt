@@ -1,0 +1,24 @@
+2026-01-14T05:29:11.119Z [DEBUG] [Query.streamInput] Starting to process input stream
+2026-01-14T05:29:11.120Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2026-01-14T05:29:11.120Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2026-01-14T05:29:11.245Z [DEBUG] [Query.streamInput] Starting to process input stream
+2026-01-14T05:31:27.297Z [DEBUG] [Query.streamInput] Processing message 1: user
+2026-01-14T05:39:44.368Z [DEBUG] [Query.streamInput] Starting to process input stream
+2026-01-14T05:39:44.368Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2026-01-14T05:39:44.368Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2026-01-14T05:39:44.493Z [DEBUG] [Query.streamInput] Starting to process input stream
+2026-01-14T05:39:45.120Z [DEBUG] [Query.streamInput] Finished processing 1 messages from input stream
+2026-01-14T05:39:45.121Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for first result
+2026-01-14T05:39:45.121Z [DEBUG] [Query.waitForFirstResult] Result already received, returning immediately
+2026-01-14T05:39:45.121Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2026-01-14T05:41:47.010Z [DEBUG] [Query.streamInput] Processing message 1: user
+2026-01-14T05:44:37.284Z [DEBUG] [Query.streamInput] Processing message 2: user
+2026-01-14T05:48:56.789Z [DEBUG] [Query.streamInput] Starting to process input stream
+2026-01-14T05:48:56.789Z [DEBUG] [Query.streamInput] Finished processing 0 messages from input stream
+2026-01-14T05:48:56.789Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process
+2026-01-14T05:48:56.956Z [DEBUG] [Query.streamInput] Starting to process input stream
+2026-01-14T05:51:59.057Z [DEBUG] [Query.streamInput] Processing message 1: user
+2026-01-14T05:52:08.538Z [DEBUG] [Query.streamInput] Finished processing 2 messages from input stream
+2026-01-14T05:52:08.538Z [DEBUG] [Query.streamInput] Has bidirectional needs, waiting for first result
+2026-01-14T05:52:08.538Z [DEBUG] [Query.waitForFirstResult] Result already received, returning immediately
+2026-01-14T05:52:08.538Z [DEBUG] [Query] Calling transport.endInput() to close stdin to CLI process

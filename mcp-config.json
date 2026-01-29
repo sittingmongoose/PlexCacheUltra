@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "context7": {
+      "type": "local",
+      "command": "node",
+      "args": ["./node_modules/@upstash/context7-mcp/dist/index.js"],
+      "tools": ["query-docs", "resolve-library-id"]
+    }
+  }
+}
