@@ -58,6 +58,7 @@ mcp.json
 
 # Claude Code local overrides (personal prefs, experiments, secrets)
 .claude/settings.local.json
+.claude/.credentials.json
 
 # Docker
 .docker/
